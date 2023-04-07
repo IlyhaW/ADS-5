@@ -7,7 +7,7 @@ int getPriority(char op) {
   std::pair<char, int> prioritet[6];
   switch (op) {
     case'(':
-      prioritet[0].first= '(';
+      prioritet[0].first = '(';
       prioritet[0].second = 0;
     case')':
       prioritet[1].first = ')';
