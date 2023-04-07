@@ -41,5 +41,4 @@ class Tstack {
       return arr[top];
     }
 };
-
-#endif  
+#endif  // INCLUDE_TSTACK_H_
