@@ -1,7 +1,7 @@
 // Copyright 2021 NNTU-CS
 #include <string>
 #include <map>
-#include "tstack.h" 
+#include "tstack.h"
 
 int getPriority(char op) {
   std::pair<char, int> prioritet[6];
